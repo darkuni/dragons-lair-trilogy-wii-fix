@@ -1,0 +1,6 @@
+dltfix
+dltfix.exe
+*.o
+*.work/
+*.iso
+*.tmp
